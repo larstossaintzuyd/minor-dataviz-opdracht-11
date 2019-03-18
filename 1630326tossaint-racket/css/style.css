@@ -1,0 +1,10 @@
+body { background: lightgrey;}
+
+figure {width: 750px;}
+
+.bloem1 { transform-origin: 485px 445px;}
+
+.bloem1:hover {
+    transform: rotate(360deg);
+    transition: all 600ms;
+}
